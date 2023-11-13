@@ -1,0 +1,1015 @@
+@media screen and (max-width: 400px) {
+	*{
+		padding: 0;
+		box-sizing: border-box;
+		font-family: sans-serif;
+		list-style: none;
+		text-decoration: none;
+	}
+	
+	body {
+		background-color: #eceeef;
+		position: relative;
+		font-family: 'Noto Sans', sans-serif;
+		font-size: 16px;
+		line-height: 1.4;
+		color: white;
+		background-color: rgb(0, 0, 0);
+		overflow-x: hidden;
+	    max-width: 1380px;
+		height: 830px;
+	
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		scroll-behavior:smooth;
+		justify-content: center;
+	}
+	
+	.text1{
+		position: absolute;
+	   font-family: mimimi1;
+	   font-size: 6px;
+	   top: 13px;
+	   letter-spacing: 4px;
+	   }
+	
+	.text2{
+	 position: relative;
+	font-family: mimimi1;
+	font-size: 4px;
+	float: left;
+	text-align: center;
+	top: 25px;
+	letter-spacing: 2px;
+	}
+	
+	.white{
+		position: absolute;
+		width: 398px;
+		height: 0.5px;
+		left: 1px;
+		top: 40px;
+		height: 0.5px;
+	}
+	.white2{
+		position: absolute;
+		width: 299px;
+		height: 0.5px;
+		top: 259px;
+		filter: brightness(50%);
+		left: 100px;
+	}
+	.white3{
+		position: absolute;
+		width: 35px;
+		height: 0.5px;
+		top: 259px;
+		filter: brightness(50%);
+		left: 1px;
+	}
+	.white4{
+		position: absolute;
+		width: 650px;
+		height: 500px;
+		top: 1100px;
+		filter: brightness(75%);
+		left: 730px;
+	}
+	.white5{
+		position: absolute;
+		width: 0.3px;
+		height: 240px;
+		top: 63px;
+		filter: brightness(80%);
+		left: 45px;
+	
+	}
+	.cvadrat{
+		position: absolute;
+		width: 399px;
+		height: 13px;
+		top: 433px;
+		filter: brightness(80%);
+		left: 1px;
+		opacity: 60%;
+	
+	}
+	.fon{
+		position: absolute;
+		width: 100%;
+		height: 220px;
+	    top: 40px;
+		filter: brightness(50%);
+	
+	
+	}
+	.on01{
+		color: rgb(255, 255, 255);
+		position: absolute;
+		left: 173PX;
+		font-size: 5px;
+		top:  670px;
+		text-decoration: none;
+		border: 0.5px solid orange; 
+		padding: 6px 11px 6px ;
+		
+		border-radius: 30%;
+	}
+	.on02{
+		color: rgb(255, 255, 255);
+		position: absolute;
+		left: 83PX;
+		font-size: 5px;
+		top:  670px;
+		text-decoration: none;
+		border: 0.5px solid orange; 
+		padding: 6px 11px 6px ;
+		
+		border-radius: 30%;
+	}
+	.on03{
+		color: rgb(255, 255, 255);
+		position: absolute;
+		left: 271PX;
+		font-size: 5px;
+		top:  670px;
+		text-decoration: none;
+		border: 0.5px solid orange; 
+		padding:6px 15px 6px ;
+		
+		border-radius: 30%;
+	}
+	.on04{
+		color: rgb(255, 255, 255);
+		position: absolute;
+		left: 173PX;
+		font-size: 5px;
+		top:  730px;
+		text-decoration: none;
+		border: 0.5px solid orange; 
+		padding: 6px 16px 6px ;
+		
+		border-radius: 30%;
+	}
+	.on05{
+		color: rgb(255, 255, 255);
+		position: absolute;
+		left: 173PX;
+		font-size: 5px;
+		top:  612px;
+		text-decoration: none;
+		border: 0.5px solid orange; 
+		padding:6px 10px 6px ;
+		
+		border-radius: 30%;
+	}
+	.t1 {
+		position: absolute;
+		left: 55PX;
+		font-size: 29px;
+		top:  62px;
+		width: 100%;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 1px;
+		font-stretch: expanded;
+		
+	}
+	.t2 {
+		position: absolute;
+		left: 58PX;
+		font-size: 30px;
+		top:  225px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 1px;
+		font-stretch: expanded;
+		
+		
+	}
+	.t3 {
+		position: absolute;
+		left: 55PX;
+		font-size: 29px;
+		top:  102px;
+		width: 500px;
+		height: 50PX;
+		
+		letter-spacing: 1px;
+		font-stretch: ultra-condensed;
+		font-family: 'Times New Roman', Times, serif;
+	}
+	.t4 {
+		position: absolute;
+		justify-content: center;
+		font-size: 12px;
+		top:  480px;
+		width: 500px;
+		font-family: mimimi1;
+		letter-spacing: 6px;
+		font-stretch: expanded;	
+		left: 230px;
+	}
+	.te1 {
+		position: absolute;
+		left: 210PX;
+		font-size: 8px;
+		top:  285px;
+		width: 500px;
+		font-family: mimimi1;
+		letter-spacing: 5px;
+		
+	}
+	.te2 {
+		position: absolute;
+		left: 210PX;
+		font-size: 6px;
+		top:  305px;
+		width: 500px;
+		font-family: mimimi1;
+		letter-spacing: 3px;
+		padding: 0px 0px 10px 0px;
+	
+	}
+	.polosa2{
+		position: absolute;
+		width: 139px;
+		height: 0.11px;
+		top: 298px;
+		left: 205px;
+	
+	}
+	.polosa4{
+		position: absolute;
+		width: 139px;
+		height: 0.5px;
+		top: 385px;
+		left: 205px;
+	}
+	.slider {
+		width: 160px;
+		left: 20px;
+		text-align: center;
+		overflow: hidden;
+		top: 417px;
+		position: absolute;
+		}
+	.slides {
+		display: flex;
+		overflow-x: auto;
+		scroll-snap-type: x mandatory;
+		scroll-behavior: smooth;
+	}
+	.slides::-webkit-scrollbar {
+		width: 3px;
+		height: 3px;
+		}
+		.slides::-webkit-scrollbar-thumb {
+		background: #666;
+		border-radius: 10px;
+		}
+		.slides::-webkit-scrollbar-track {
+		background: transparent;
+		}
+		.slides > div {
+			flex-shrink: 0;
+			width: 160px;
+			height: 130px;
+			margin-right: 50px;
+			border-radius: 10px;
+			background: #eee;
+			transform-origin: center center;
+			transform: scale(1);
+			transition: transform 0.5s;
+			position: relative;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size: 100px;}
+		.slides img{
+			width: 160px;
+			height: 130px;
+		}
+		.slider > a {
+			display: inline-flex;
+			width: 30px;
+			height: 10px;
+			border: 0.5px solid orange; 
+		    padding: 6px 15px 6px ;  
+			text-decoration: none;
+			color: rgb(255, 255, 255);
+		    font-size: 3px;
+			
+			 text-align: center;
+			top: -1px ;
+			position: relative;
+			}
+		.slider > a:active {
+			top: 1px;
+			color: #000000;
+			}
+			.slider > a:focus {
+				background: #9c520c;
+				}
+				@font-face {
+					font-family: mimimi1;
+					src: url("Roboto-Thin.ttf");
+				}
+				@font-face {
+					font-family: mimimi;
+					src: url("Roboto-Light.ttf");
+				}
+	.conec{
+		position: absolute;
+		width:400px;
+		height: 1px;
+		top: 785px;
+		filter: brightness(80%);
+		left: 1px;
+	}
+	.tconec {
+		position: absolute;
+		left: 96PX;
+		font-size: 4PX;
+		top:  795px;
+		width: 500px;
+		font-family: mimimi1;
+		letter-spacing: 1px;
+		padding: 0px 0px 10px 0px;
+	
+	}
+	.tconec1 {
+		position: absolute;
+		left: 168PX;
+		font-size: 4px;
+		top:  805px;
+		width: 500px;
+		font-family: mimimi1;
+		letter-spacing: 1px;
+		padding: 0px 0px 10px 0px;
+	}
+	.opa{
+		position: absolute;
+		font-size: 25px;
+		top: 3165px;
+		left: 405px;
+		letter-spacing: 20px;
+		font-family: mimimi1;
+	}
+	.tt1 {
+		position: absolute;
+		left: 110PX;
+		font-size: 6px;
+		top:  630px;
+
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 1px;
+		font-stretch: expanded;
+		
+	}
+	.tt2 {
+		position: absolute;
+		left: 130PX;
+		font-size: 6px;
+		top:  645px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+		
+	}
+	.tt3 {
+		position: absolute;
+		left: 110PX;
+		font-size: 6px;
+		top:  698px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+	}
+	.tt4 {
+		position: absolute;
+		left: 123PX;
+		font-size: 6px;
+		top:  718px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+	}
+	.tt5 {
+		position: absolute;
+		left: 233PX;
+		font-size: 6px;
+		top:  718px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+	}
+	.tt6 {
+		position: absolute;
+		left: 255PX;
+		font-size: 6px;
+		top:  698px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+	}
+	.tt7 {
+		position: absolute;
+		left: 245PX;
+		font-size: 6px;
+		top:  645px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+	}
+	.tt8 {
+		position: absolute;
+		left: 255PX;
+		font-size: 6px;
+		top:  630px;
+		width: 500px;
+		font-family: 'Times New Roman', Times, serif;
+		letter-spacing: 2px;
+		font-stretch: expanded;
+		
+	}
+	.strela{
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		top: 250px;
+		filter: brightness(80%);
+		left: 150px;
+	}
+	.a1{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 205PX;
+		font-size: 10px;
+		top:  643px;
+	}
+	.a2{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 190PX;
+		font-size: 10px;
+		top:  643px;
+		
+	
+	}
+	.a11{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 205PX;
+		font-size: 10px;
+		top:  703px;
+	}
+	.a22{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 190PX;
+		font-size: 10px;
+		top:  703px;
+		
+	
+	}
+	.a3{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 147PX;
+		font-size: 10px;
+		top:  669px;
+	}
+	.a4{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 147PX;
+		font-size: 10px;
+		top:  678px;
+	}
+	.a33{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 245PX;
+		font-size: 10px;
+		top:  669px;
+	}
+	.a44{
+		color:  rgb(224, 147, 75);
+		position: absolute;
+		left: 245PX;
+		font-size: 10px;
+		top:  678px;
+	}	
+}
+@media screen and (min-width: 1240px) {
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+
+body {
+	background-color: #eceeef;
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.4;
+	color: white;
+    background-color: rgb(0, 0, 0);
+	overflow-x: hidden;
+
+	height: 2000px;
+	max-width: 1380px;
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+	display: flex;
+	scroll-behavior:smooth;
+	justify-content: center;
+}
+
+.text1{
+	position: absolute;
+   font-family: mimimi1;
+   font-size: 1vw;
+   top: 30px;
+   letter-spacing: 10px;
+   }
+
+.text2{
+ position: absolute;
+font-family: mimimi1;
+font-size: 1vw;
+float: left;
+text-align: center;
+top: 70px;
+letter-spacing: 2px;
+}
+
+.white{
+	position: absolute;
+	width: 100%;
+	top: 130px;
+}
+.white2{
+	position: absolute;
+	width: 80%;
+	height: 0.5px;
+	top: 950px;
+	filter: brightness(50%);
+	left:  277px;
+	margin-top: -123px;
+}
+
+.white4{
+	position: absolute;
+	width: 1378px;
+	height: 1px;
+	top: 128px;
+	filter: brightness(80%);
+	left: 1px;
+
+
+}
+.white{
+	position: absolute;
+	width: 3px;
+	height: 967px;
+	top: 191px;
+	filter: brightness(80%);
+	left: 88px;
+}
+	.white3{
+		position: absolute;
+		width: 75px;
+		height: 0.5px;
+		top: 827px;
+		filter: brightness(50%);
+		left: 1px;
+
+}
+.fon{
+	position: absolute;
+	width: 100%;
+
+	top: 129px;
+	filter: brightness(50%);
+
+
+}
+.on01{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	left: 560PX;
+	font-size: 23px;
+	top:  2560px;
+	text-decoration: none;
+	border: 2px solid orange; 
+	padding: 50px 70px 50px ;
+	
+	border-radius: 30%;
+}
+.on02{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	left: 565PX;
+	font-size: 23px;
+	top:  2330px;
+	text-decoration: none;
+	border: 2px solid orange; 
+	padding: 35px 60px 35px ;
+	
+	border-radius: 30%;
+}
+.on03{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	left: 565PX;
+	font-size: 23px;
+	top:  2835px;
+	text-decoration: none;
+	border: 2px solid orange; 
+	padding: 35px 88px 35px ;
+    border-radius: 30%;
+}
+.on04{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	left: 1110PX;
+	font-size: 23px;
+	top:  2560px;
+	text-decoration: none;
+	border: 2px solid orange; 
+	padding: 50px 88px 50px ;
+	
+	border-radius: 30%;
+}
+.on05{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	left: 30PX;
+	font-size: 23px;
+	top:  2560px;
+	text-decoration: none;
+	border: 2px solid orange; 
+	padding: 50px 70px 50px ;
+	
+	border-radius: 30%;
+}
+.t1 {
+    position: absolute;
+    left: 125PX;
+    font-size: 120px;
+    top:  154px;
+	width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+	font-stretch: expanded;
+	
+}
+.t2 {
+    position: absolute;
+    left: 145PX;
+    font-size: 120px;
+    top:  825px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+	font-stretch: expanded;
+	
+	
+}
+.t3 {
+    position: absolute;
+    left: 120PX;
+    font-size: 120px;
+    top:  320px;
+	width: 500px;
+	height: 50PX;
+    
+    letter-spacing: 1px;
+	font-stretch: ultra-condensed;
+	font-family: 'Times New Roman', Times, serif;
+}
+.t4 {
+    position: absolute;
+    left: 870PX;
+    font-size: 42px;
+    top:  1690px;
+	width: 500px;
+    font-family: mimimi1;
+    letter-spacing: 28px;
+	font-stretch: expanded;	
+}
+.te1 {
+    position: absolute;
+    left: 827PX;
+    font-size: 30px;
+    top:  930px;
+	width: 500px;
+    font-family: mimimi1;
+    letter-spacing: 18px;
+	
+}
+.te2 {
+    position: absolute;
+    left: 860PX;
+    font-size: 25px;
+    top:  1020px;
+	width: 500px;
+    font-family: mimimi1;
+    letter-spacing: 15px;
+	padding: 0px 0px 10px 0px;
+
+}
+.polosa2{
+	position: absolute;
+	width: 570px;
+	height: 1px;
+	top: 990px;
+	left: 780px;
+
+}
+.polosa4{
+	position: absolute;
+	width: 570px;
+	height: 1px;
+	top: 1475px;
+	left: 780px;
+}
+.slider {
+	width: 600px;
+	left: 50px;
+	text-align: center;
+	overflow: hidden;
+	top: 1590px;
+	position: absolute;
+	}
+.slides {
+	display: flex;
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+	scroll-behavior: smooth;
+}
+.slides::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+	}
+	.slides::-webkit-scrollbar-thumb {
+	background: #666;
+	border-radius: 10px;
+	}
+	.slides::-webkit-scrollbar-track {
+	background: transparent;
+	}
+	.slides > div {
+		flex-shrink: 0;
+		width: 750px;
+		height: 500px;
+		margin-right: 50px;
+		border-radius: 10px;
+		background: #eee;
+		transform-origin: center center;
+		transform: scale(1);
+		transition: transform 0.5s;
+		position: relative;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 100px;}
+	.slides img{
+		width: 1200px;
+		height: 600px;
+	}
+	.slider > a {
+		display: inline-flex;
+		width: 30px;
+		height: 10px;
+		border: 0.5px solid orange; 
+		padding: 35px 60px 35px ;  
+		text-decoration: none;
+		color: rgb(255, 255, 255);
+		font-size: 15px;
+		position: relative;
+		margin: 1px 5px 5px 5px;
+		 top: 10px 10px 10px 10px;
+		 justify-content: center;
+		 align-items: center;
+		
+	
+		}
+	.slider > a:active {
+		top: 1px;
+		color: #000000;
+		}
+		.slider > a:focus {
+			background: #9c520c;
+			}
+			@font-face {
+				font-family: mimimi1;
+				src: url("Roboto-Thin.ttf");
+			}
+			@font-face {
+				font-family: mimimi;
+				src: url("Roboto-Light.ttf");
+			}
+.conec{
+	position: absolute;
+	width: 1379px;
+	height: 1px;
+	top: 3130px;
+	filter: brightness(80%);
+	left: 1px;
+}
+.tconec {
+    position: absolute;
+    left: 375PX;
+    font-size: 14px;
+    top:  3220px;
+	width: 500px;
+    font-family: mimimi1;
+    letter-spacing: 0px;
+	padding: 0px 0px 10px 0px;
+
+}
+.tconec1 {
+	position: absolute;
+    left: 875PX;
+    font-size: 14px;
+    top:  3220px;
+	width: 500px;
+    font-family: mimimi1;
+    letter-spacing: 0px;
+	padding: 0px 0px 10px 0px;
+}
+.opa{
+	position: absolute;
+	font-size: 25px;
+	top: 3165px;
+	left: 405px;
+	letter-spacing: 20px;
+	font-family: mimimi1;
+}
+.tt1 {
+    position: absolute;
+    left: 260PX;
+    font-size: 25px;
+    top:  2440px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+	
+}
+.tt2 {
+    position: absolute;
+    left: 380PX;
+    font-size: 25px;
+    top:  2500px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+	
+}
+.tt3 {
+    position: absolute;
+    left: 190PX;
+    font-size: 25px;
+    top:  2750px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+}
+.tt4 {
+    position: absolute;
+    left: 370PX;
+    font-size: 25px;
+    top:  2820px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+}
+.tt5 {
+    position: absolute;
+    left: 935PX;
+    font-size: 25px;
+    top:  2820px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+}
+.tt6 {
+    position: absolute;
+    left: 1000PX;
+    font-size: 25px;
+    top:  2750px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+}
+.tt7 {
+    position: absolute;
+    left: 970PX;
+    font-size: 25px;
+    top:  2500px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+}
+.tt8 {
+    position: absolute;
+    left: 1035PX;
+    font-size: 25px;
+    top:  2440px;
+	width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+	font-stretch: expanded;
+	
+}
+.strela{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	top: 1725px;
+	filter: brightness(80%);
+	left: 680px;
+}
+.a1{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 720PX;
+	font-size: 45px;
+	top:  2460px;
+}
+.a2{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 650PX;
+	font-size: 45px;
+	top:  2460px;
+	
+
+}
+.a11{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 720PX;
+	font-size: 45px;
+	top:  2730px;
+}
+.a22{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 650PX;
+	font-size: 45px;
+	top:  2730px;
+	
+
+}
+.a3{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 955PX;
+	font-size: 45px;
+	top:  2570px;
+}
+.a4{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 955PX;
+	font-size: 45px;
+	top:  2620px;
+}
+.a33{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 398PX;
+	font-size: 45px;
+	top:  2570px;
+}
+.a44{
+	color:  rgb(224, 147, 75);
+	position: absolute;
+	left: 398PX;
+	font-size: 45px;
+	top:  2620px;
+}
+}
