@@ -1,0 +1,88 @@
+*, *:before, *:after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+	text-decoration: none;
+	color: white;
+}
+html, body{
+    height: 100%;
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2.5vh;
+    margin: 0;
+    position: relative; 
+    overflow-x: hidden;
+
+}
+@font-face {
+    font-family: mimimi1;
+    src: url("FoglihtenNo06_076.otf");
+}
+@font-face {
+    font-family: mimimi2;
+    src: url("Comfortaa-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: mimimi3;
+    src: url("Sunday-Regular.otf");
+}
+@font-face {
+    font-family: mimimi4;
+    src: url("Roboto-Thin.ttf");
+}
+@font-face {
+    font-family: mimimi5;
+    src: url("OpenSans-Light.ttf");
+}
+.blackK{
+    position: absolute;
+    height: 5.1vw;
+    width: 100%;
+}
+.t3{
+    position: absolute;
+    top: 1.5vw;
+    left: 45.6vw;
+    color: #ffffff;
+    font-size:1.7vw;
+    font-family: mimimi3;
+    letter-spacing: 0.4vw;
+}
+.t4{
+    position: absolute;
+    top: 2.2vw;
+    left: 4vw;
+    color: #ffffff;
+    font-size: 0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t402{
+    position: absolute;
+    top: 2.2vw;
+    left: 69.3vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t403{
+    position: absolute;
+    top: 2.2vw;
+    left: 88vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t401{
+    position: absolute;
+    top: 2.2vw;
+    left: 25vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}

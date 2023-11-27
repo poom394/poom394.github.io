@@ -1,0 +1,570 @@
+*, *:before, *:after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+	text-decoration: none;
+	color: white;
+}
+html, body{
+    height: 126vw;
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2.5vh;
+    margin: 0;
+    position: relative; 
+    overflow-x: hidden;
+
+}
+@font-face {
+    font-family: mimimi1;
+    src: url("FoglihtenNo06_076.otf");
+}
+@font-face {
+    font-family: mimimi2;
+    src: url("Comfortaa-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: mimimi3;
+    src: url("Sunday-Regular.otf");
+}
+@font-face {
+    font-family: mimimi4;
+    src: url("Roboto-Thin.ttf");
+}
+@font-face {
+    font-family: mimimi5;
+    src: url("OpenSans-Light.ttf");
+}
+.blackK{
+    position: absolute;
+    height: 5.1vw;
+    width: 100%;
+  
+}
+
+.pi1{
+    position: absolute;
+    top: 6.5vw;
+    left: -16vw;
+  font-size: 1.1vw;
+color: #000000;
+font-family: mimimi2;
+text-align: center ;
+letter-spacing: 0.2vw;    
+white-space: nowrap;
+}
+.sawhite{
+    position: absolute;
+    height: 0.1vw;
+    width: 100%;    
+    top: 5.2vw;
+    filter: brightness(30%)
+} 
+.img{
+    position: absolute;
+    height: 0.01vw;
+    width: 37.5%;    
+    top: 14.4vw;
+    filter: brightness(30%)
+} 
+.img2{
+    position: absolute;
+    height: 0.01vw;
+    width: 37.5%;    
+    top: 14.4vw;
+    left: 62.5vw;
+    filter: brightness(30%)
+}
+.nowspec1{
+    position: absolute;
+    height: 22vw;
+    width: 19vw; 
+    margin-top: 21vw;
+    margin-left: 70.6vw;
+}  
+.nowspec2{
+    position: absolute;
+    height: 22vw;
+    width: 19vw;    
+    margin-top: 21vw;
+    margin-left: 10vw;
+}  
+.nowspec3{
+    position: absolute;
+    height: 22vw;
+    width: 19vw;
+    margin-top: 21vw;
+    margin-left: 40.6vw;
+}   
+.nowspec4{
+    position: absolute;
+    height: 22vw;
+    width: 19vw; 
+    margin-top: 60vw;
+    margin-left: 70.6vw;
+}  
+.nowspec5{
+    position: absolute;
+    height: 22vw;
+    width: 19vw;    
+    margin-top: 60vw;
+    margin-left: 10vw;
+}  
+.nowspec6{
+    position: absolute;
+    height: 22vw;
+    width: 19vw;
+    margin-top: 60vw;
+    margin-left: 40.6vw;
+}   
+.aikona{
+    position: absolute;
+    height: 2vw;
+    width: 2vw;
+    top: 117.5vw;
+    left: 29.5vw;
+}
+.aikona2{
+    position: absolute;
+    height: 2vw;
+    width: 2vw;
+    top: 117.5vw;
+    left: 32.5vw;
+}
+.aikona3{
+    position: absolute;
+    height: 2vw;
+    width: 2vw;
+    top: 117.5vw;
+    left: 35.5vw;
+}
+.aikona4{
+    position: absolute;
+    height: 2vw;
+    width: 2vw;
+    top: 117.5vw;
+    left: 38.5vw;
+}
+.t4{
+    position: absolute;
+    top: 2.2vw;
+    left: 4vw;
+    color: #ffffff;
+    font-size: 0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t402{
+    position: absolute;
+    top: 2.2vw;
+    left: 69.3vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t403{
+    position: absolute;
+    top: 2.2vw;
+    left: 88vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t4010{
+    position: absolute;
+    top: 2.2vw;
+    left: 25vw;
+    color: #ffffff;
+    font-size:0.8vw;
+    font-family: mimimi2;
+    letter-spacing: 0.4vw;
+}
+.t3{
+    position: absolute;
+    top: 1.5vw;
+    left: 45.6vw;
+    color: #ffffff;
+    font-size:1.7vw;
+    font-family: mimimi3;
+    letter-spacing: 0.4vw;
+}
+.nov1{
+    position: absolute;
+    top: 11.8vw;
+    left: -6.3vw;
+    color: #000000;
+    font-size:2vw;
+    font-family: mimimi2;
+    letter-spacing: 0.3vw;
+} 
+.nn20{
+    position: absolute;
+    top: 105vw;
+    left: -38vw;
+    color: #ffffff;
+    font-size:1.7vw;
+    font-family: mimimi3;
+    letter-spacing: 0.4vw;
+}
+.nono{
+    position: absolute;
+    margin-top: 41vw;
+    margin-left: -34.6vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2;
+   
+}
+.nono2{
+    position: absolute;
+    margin-top: 41vw;
+    margin-left: -5.7vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2;  
+}
+.nono20{
+    position: absolute;
+    margin-top: 41vw;
+    margin-left: 5.9vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2;  
+}
+.nono3{
+    position: absolute;
+    margin-top: 41vw;
+    margin-left: 29.6vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2; 
+    
+}
+.nono4{
+    position: absolute;
+    margin-top: 80vw;
+    margin-left: -30.4vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2;
+   
+}
+.nono5{
+    position: absolute;
+    margin-top: 80vw;
+    margin-left: -7.6vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2;  
+    white-space: nowrap;
+}
+.nono6{
+    position: absolute;
+    margin-top: 80vw;
+    margin-left: 27.9vw;
+    color: #000000;
+    font-size: 1.5vw;
+    letter-spacing: -0.1vw;
+    font-family: mimimi2; 
+    
+}
+.nn1{
+    position: absolute;
+    top: 45.5vw;
+    left: -33.6vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+}
+.nn2{
+    position: absolute;
+    top: 48.5vw;
+    left: -34.6vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    
+}
+.nn2:hover{
+    background-color: rgb(201, 195, 189);
+color:rgb(0, 0, 0)
+}
+.nn3{
+    position: absolute;
+    top: 45.5vw;
+    left: -2.8vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+    white-space: nowrap;
+}
+.nn4{
+    position: absolute;
+    top: 48.5vw;
+    left: -3.9vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    white-space: nowrap;
+}
+.nn4:hover{
+    background-color: rgb(201, 195, 189);
+color:rgb(0, 0, 0)
+}
+.nn5{
+    position: absolute;
+    top: 45.5vw;
+    left: 27.4vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+    white-space: nowrap;
+}
+.nn6{
+    position: absolute;
+    top: 48.5vw;
+    left: 26.2vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    white-space: nowrap;
+    
+}
+.nn6:hover{
+    background-color: rgb(201, 195, 189);
+color:rgb(0, 0, 0)
+}
+.nn7{
+    position: absolute;
+    top: 84.5vw;
+    left: -33.6vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+}
+.nn8{
+    position: absolute;
+    top: 87.5vw;
+    left: -34.6vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    
+}
+.nn8:hover{
+    background-color: rgb(201, 195, 189);
+color:rgb(0, 0, 0)
+}
+.nn9{
+    position: absolute;
+    top: 84.5vw;
+    left: -2.8vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+    white-space: nowrap;
+}
+.nn10{
+    position: absolute;
+    top: 87.5vw;
+    left: -3.8vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    white-space: nowrap;
+    
+}
+.nn10:hover{
+    background-color: rgb(201, 195, 189);
+color:rgb(0, 0, 0)
+}
+.nn11{
+    position: absolute;
+    top: 84.5vw;
+    left: 27.4vw;
+    color: #000000;
+    font-size:1.3vw;
+    font-family: mimimi5;
+    letter-spacing: 0.1vw;
+    white-space: nowrap;
+}
+.nn12{
+    position: absolute;
+    top: 87.5vw;
+    left: 26.4vw;
+    color: #454343;
+    font-size:1.3vw;
+    font-family: mimimi2;
+    letter-spacing: 0.1vw;
+    border: 0.1vw solid rgb(164, 161, 161); 
+    padding: 1vw 3.3vw 1vw ;
+    transition: 0.3s;
+    white-space: nowrap;
+    
+}
+.nn12:hover{
+    background-color: rgb(56, 51, 47);
+color:rgb(0, 0, 0)
+}
+.qq1{
+    position: absolute;
+    top: 110.5vw;
+    left: -38vw;
+    color: #ffffff;
+    font-size: 1.2vw;
+    font-family: mimimi5;
+   letter-spacing: 0.2vw;
+}
+.qq2{
+    position: absolute;
+    top: 113.5vw;
+    left: -38vw;
+    color: #d2d2d2;
+    font-size: 1.1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+}
+.qq3{
+    position: absolute;
+    top: 115.5vw;
+    left: -38vw;
+    color: #d2d2d2;
+    font-size: 1.1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+}
+.qq4{
+    position: absolute;
+    top: 117.5vw;
+    left: -38vw;
+    color: #d2d2d2;
+    font-size: 1.1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+}
+.qq5{
+    position: absolute;
+    top: 123vw;
+    left: -15.3vw;
+    color: #d2d2d2;
+    font-size: 0.8vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+   white-space: nowrap;
+}
+.qq6{
+    position: absolute;
+    top: 110.5vw;
+    left: -16.1vw;
+    color: #ffffff;
+    font-size: 1.2vw;
+    font-family: mimimi5;
+   letter-spacing: 0.2vw;
+}
+.qq7{
+    position: absolute;
+    top: 113.5vw;
+    left: -16.1vw;
+    color: #d2d2d2;
+    font-size: 1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.2vw;
+}
+.qq8{
+    position: absolute;
+    top: 110.5vw;
+    left: 11vw;
+    color: #ffffff;
+    font-size: 1.2vw;
+    font-family: mimimi5;
+   letter-spacing: 0.2vw;
+}
+.qq9{
+    position: absolute;
+    top: 113.5vw;
+    left: 11vw;
+    color: #d2d2d2;
+    font-size: 1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+   white-space: nowrap;
+}
+.qq10{
+    position: absolute;
+    top: 110.5vw;
+    left: 35vw;
+    color: #ffffff;
+    font-size: 1.2vw;
+    font-family: mimimi5;
+   letter-spacing: 0.2vw;
+}
+.qq11{
+    position: absolute;
+    top: 113.5vw;
+    left: 35vw;
+    color: #d2d2d2;
+    font-size: 1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+}
+.qq12{
+    position: absolute;
+    top: 115.5vw;
+    left: 35vw;
+    color: #d2d2d2;
+    font-size: 1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+}
+.qq13{
+    position: absolute;
+    top: 117.5vw;
+    left: 35vw;
+    color: #d2d2d2;
+    font-size: 1vw;
+    font-family: mimimi5;
+   letter-spacing: 0.1vw;
+   white-space: nowrap;
+}
+.nowblackfon1112{
+    position: absolute;
+    height: 21.5vw;
+    width: 100%;    
+    top: 105vw;
+    
+    filter: opacity(83%);
+}  
